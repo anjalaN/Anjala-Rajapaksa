@@ -1,6 +1,8 @@
-<img src="anjala.jpeg" />
+
 # Hi 👋, I'm Anjala Rajapaksa
+
 ## Développeuse Web
+
 > Après avoir travaillé dans l'aviation, j'ai fait une reconversion vers l'informatique en qualité de conceptrice réalisation multimédia internet. Maitrisant HTML5, Css3, Javascript, Bootstrap4, Jquery3, Wordpress, Php7, Adobe Photoshop et j'exerce le métier de développeuse avec une spécialité front end 
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
