@@ -1,5 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Anjala Rajapaksa</h1>
 <h3 align="center">Développeuse front-end</h3>
+<img align="right" alt="cording" width="400px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F0c9837fb47204ad3cdcbe3da75414266a19d007721862591c91034559ff6815b%2F68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d4f307531624e48732d2d2f635f6c696d6974253243665f6175746f253243666c5f70726f6772657373697665253243715f3636253243775f3838302f68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302532415058663567653751434e3947615f434c2e676966&tbnid=3brDSoVYXy7FhM&vet=12ahUKEwixt_LXla2DAxUericCHRASCD8QMygNegQIARB7..i&imgrefurl=https%3A%2F%2Fgithub.com%2FSristyVerma&docid=LCwhNNGeccisTM&w=800&h=600&q=animating%20coding%20gif&hl=en&client=safari&ved=2ahUKEwixt_LXla2DAxUericCHRASCD8QMygNegQIARB7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalan&label=Profile%20views&color=0e75b6&style=flat" alt="anjalan" /> </p>
 
