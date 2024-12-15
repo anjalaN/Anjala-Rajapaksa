@@ -71,7 +71,7 @@
    - 2016 Université Paris 8 Paris
      
  - Diplôme de 1ère année en Informatique
-   - De 2001 à 2002 Université Colombo Sri Lanka
+   - De 2001 à 2002 Université Colombo Sri Lanka 
    
  - Diplôme Multimédia
     - De 2002 à 2003 Business and Technology Westfield School Sri Lanka
@@ -105,8 +105,12 @@
     TCF B1/B2
 - Anglaise - Deuximémé 
 - Singhalai - Langue maternelle
-## Réseaux sociaux linkedin
-- https://www.linkedin.com/in/anjala-rajapaksa
+
+<h3 align="left"> Réseaux sociaux:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anjala rajapaksa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjala rajapaksa" height="30" width="40" /></a>
+</p>
+https://www.linkedin.com/in/anjala-rajapaksa
 
 ## Bénévolat
 - J'ai le plaisir de vous annoncer que j'ai fait du bénévolat chez la Maison Bakhita. J'ai fait atelier informatique et numérique chaque le mardi soir 19h jusqu'à 21h
