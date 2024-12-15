@@ -14,9 +14,9 @@
  
 ## Expériences professionnelles
 - Développeur Front end
-    - Aôut 2023 Metishima 13 Rue Santeuil, 75005, Paris
-    - Remodification la site de Metishima -Wordpresse, photoshop
-    - (https://metishima.org/)
+   - Aôut 2023 Metishima 13 Rue Santeuil, 75005, Paris
+   - Remodification la site de Metishima -Wordpresse, photoshop
+   - (https://metishima.org/)
 
 - Développeuse web Front-End 
    - De 2019 à 2020 Escapade Française Paris -Stage Paris-stage
@@ -42,29 +42,29 @@
     - (https://www.airforce.lk/)
 
  ## Formations
-   - En formation École 42 Language Html5, Css3, Python3 ....
-      - November 2024 Jusqu'à un ans
-      - ( https://42.fr/)
-    - Actuellement Language PHP (2 1/2)
+ - En formation École 42 Language Html5, Css3, Python3 ....
+     - November 2024 Jusqu'à un ans
+     - ( https://42.fr/)
+ - Actuellement Language PHP (2 1/2)
        - October 2023 Wild code school 44 Rue Alphonse Penaud, 75020, Paris
        - (https://wildcodeschool.com/)
-    - Attestation technicienne assistance (399h)
+ - Attestation technicienne assistance (399h)
        - De mai 2022 à août 2022 Simplon Villetaneuse
        - (https://simplon.co/)
-    - Attestation les bases des langages Htm5, Cs3s et Javascript3
+ - Attestation les bases des langages Htm5, Cs3s et Javascript3
        - 2021 Konexio - Paris-Digistat - (_20h_) Paris
        - (https://www.konexio.eu/)
-   - Certificat la langue française DELF B1/B2
+ - Certificat la langue française DELF B1/B2
        - De 2017 à 2018 Université Sorbon Paris
-   - Attestation de compétences -Développeur expérimenté
+ - Attestation de compétences -Développeur expérimenté
        - De 2016 à 2017 GRPG(g2r) Paris
-   - Diplôme de premier cycle Université Niveau Bac +2
+ - Diplôme de premier cycle Université Niveau Bac +2
        - 2016 Université Paris 8 Paris
-   - Diplôme de 1ère année en Informatique
+ - Diplôme de 1ère année en Informatique
        - De 2001 à 2002 Université Colombo Sri Lanka
-   - Diplôme Multimédia
+ - Diplôme Multimédia
       - De 2002 à 2003 Business and Technology Westfield School Sri Lanka
-   - Computer Operator
+ - Computer Operator
      - 1998 American Professional Computer Center Sri Lanka
 
 ## Tech
