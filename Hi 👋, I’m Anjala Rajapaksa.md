@@ -11,6 +11,8 @@
 - ✨Compétences
 - ✨Langues
 - ✨Centres d'interet
+- ✨Faire de Bénévolat
+  
  
 ## Expériences professionnelles
 - Développeur Front end
