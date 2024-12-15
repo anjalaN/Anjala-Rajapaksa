@@ -3,7 +3,10 @@
 
 ## Je suis Développeuse Web
 
- Après avoir travaillé dans l'aviation, j'ai fait une reconversion vers l'informatique en qualité de conceptrice réalisation multimédia internet. Maitrisant HTML5, Css3, Javascript, Bootstrap4, Jquery3, Wordpress, Php7, Adobe Photoshop et j'exerce le métier de développeuse avec une spécialité front end 
+ Après avoir travaillé dans l'aviation, j'ai fait une reconversion vers l'informatique en qualité de conceptrice réalisation multimédia internet. Maitrisant HTML5, Css3, Javascript, Bootstrap4, Jquery3, Wordpress, Php7, Adobe Photoshop et j'exerce le métier de développeuse avec une spécialité front end.
+ 
+- 🌱 I’m currently learning **Language Python3 with École 42 Paris**
+  
 - 📫 **anjala2022@gmail.com**
  
 <h3 align="left">Languages and Tools:</h3>
