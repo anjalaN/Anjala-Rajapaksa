@@ -45,31 +45,40 @@
  - En formation École 42 Language Html5, Css3, Python3 ....
      - November 2024 Jusqu'à un ans
      - ( https://42.fr/)
+       
  - Actuellement Language PHP (2 1/2)
-       - October 2023 Wild code school 44 Rue Alphonse Penaud, 75020, Paris
-       - (https://wildcodeschool.com/)
+   - October 2023 Wild code school 44 Rue Alphonse Penaud, 75020, Paris
+   - (https://wildcodeschool.com/)
+     
  - Attestation technicienne assistance (399h)
-       - De mai 2022 à août 2022 Simplon Villetaneuse
-       - (https://simplon.co/)
+   - De mai 2022 à août 2022 Simplon Villetaneuse
+   - (https://simplon.co/)
+     
  - Attestation les bases des langages Htm5, Cs3s et Javascript3
-       - 2021 Konexio - Paris-Digistat - (_20h_) Paris
-       - (https://www.konexio.eu/)
+   - 2021 Konexio - Paris-Digistat - (_20h_) Paris
+   - (https://www.konexio.eu/)
+     
  - Certificat la langue française DELF B1/B2
-       - De 2017 à 2018 Université Sorbon Paris
+   - De 2017 à 2018 Université Sorbon Paris
+     
  - Attestation de compétences -Développeur expérimenté
-       - De 2016 à 2017 GRPG(g2r) Paris
+   - De 2016 à 2017 GRPG(g2r) Paris
+     
  - Diplôme de premier cycle Université Niveau Bac +2
-       - 2016 Université Paris 8 Paris
+   - 2016 Université Paris 8 Paris
+     
  - Diplôme de 1ère année en Informatique
-       - De 2001 à 2002 Université Colombo Sri Lanka
+   - De 2001 à 2002 Université Colombo Sri Lanka
+   
  - Diplôme Multimédia
-      - De 2002 à 2003 Business and Technology Westfield School Sri Lanka
+    - De 2002 à 2003 Business and Technology Westfield School Sri Lanka
+        
  - Computer Operator
-     - 1998 American Professional Computer Center Sri Lanka
+    - 1998 American Professional Computer Center Sri Lanka
 
 ## Tech
-    - [HTML5] - Expert 
-    - [CSS3] - Intermédia 
+- [HTML5] - Expert 
+- [CSS3] - Intermédia 
     - [PHP7] - Déboutant
     - [ Bootstrap] - Intermédia 
     - [Javascript]  -Déboutant
