@@ -42,9 +42,9 @@
     - (https://www.airforce.lk/)
 
  ## Formations
-     - En formation École 42 Language Html5, Css3, Python3 ....
-       - November 2024 Jusqu'à un ans
-       - ( https://42.fr/)
+   - En formation École 42 Language Html5, Css3, Python3 ....
+      - November 2024 Jusqu'à un ans
+      - ( https://42.fr/)
     - Actuellement Language PHP (2 1/2)
        - October 2023 Wild code school 44 Rue Alphonse Penaud, 75020, Paris
        - (https://wildcodeschool.com/)
