@@ -1,16 +1,16 @@
 
 # Hi 👋, I'm Anjala Rajapaksa
 
-## Développeuse Web
+## Je suis Développeuse Web
 
-> Après avoir travaillé dans l'aviation, j'ai fait une reconversion vers l'informatique en qualité de conceptrice réalisation multimédia internet. Maitrisant HTML5, Css3, Javascript, Bootstrap4, Jquery3, Wordpress, Php7, Adobe Photoshop et j'exerce le métier de développeuse avec une spécialité front end 
+ Après avoir travaillé dans l'aviation, j'ai fait une reconversion vers l'informatique en qualité de conceptrice réalisation multimédia internet. Maitrisant HTML5, Css3, Javascript, Bootstrap4, Jquery3, Wordpress, Php7, Adobe Photoshop et j'exerce le métier de développeuse avec une spécialité front end 
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 - ✨Expériences professionnelles
 - ✨Formations
 - ✨Compétences
 - ✨Langues
- - ✨Centres d'interet
+- ✨Centres d'interet
  
 ## Expériences professionnelles
 - Développeur Front end
@@ -24,7 +24,7 @@
     - (https://www.escapadefrancaise.com/)
 - Assistante technologie numérique
     - De 2015 à 2016 LDM - Paris Paris
-    - Création de montage vidéo -Final Cut Pro Intégration de site internet _*WordPress, Html5. Css3 d'image numérique Adobe Photoshop*_ A l'écoute des besoins clients
+    - Création de montage vidéo -Final Cut Pro Intégration de site internet _*WordPress, Html5. Css3 d'image numérique Adobe    Photoshop*_ A l'écoute des besoins clients
     - (www.lesatelierjourdin.fr/)
 - Technicienne support techniqe
     - De mai 2015 à août 2015 NEOLOGIE Paris
@@ -42,54 +42,62 @@
     - (https://www.airforce.lk/)
 
  ## Formations
-- Actuellement Language PHP (2 1/2)
-    - October 2023 Wild code school 44 Rue Alphonse Penaud, 75020, Paris
-    - (https://wildcodeschool.com/)
-- Attestation technicienne assistance (399h)
-    - De mai 2022 à août 2022 Simplon Villetaneuse
-    - (https://simplon.co/)
-- Attestation les bases des langages Htm5, Cs3s et Javascript3
-     - 2021 Konexio - Paris-Digistat - (_20h_) Paris
-     - (https://www.konexio.eu/)
-- Certificat la langue française DELF B1/B2
-    - De 2017 à 2018 Université Sorbon Paris
-- Attestation de compétences -Développeur expérimenté
-    - De 2016 à 2017 GRPG(g2r) Paris
-- Diplôme de premier cycle Université Niveau Bac +2
-    - 2016 Université Paris 8 Paris
-- Diplôme de 1ère année en Informatique
-    - De 2001 à 2002 Université Colombo Sri Lanka
-- Diplôme Multimédia
-    - De 2002 à 2003 Business and Technology Westfield School Sri Lanka
-- Computer Operator
-    - 1998 American Professional Computer Center Sri Lanka
+     - En formation École 42 Language Html5, Css3, Python3 ....
+       - November 2024 Jusqu'à un ans
+       - ( https://42.fr/)
+    - Actuellement Language PHP (2 1/2)
+       - October 2023 Wild code school 44 Rue Alphonse Penaud, 75020, Paris
+       - (https://wildcodeschool.com/)
+    - Attestation technicienne assistance (399h)
+       - De mai 2022 à août 2022 Simplon Villetaneuse
+       - (https://simplon.co/)
+    - Attestation les bases des langages Htm5, Cs3s et Javascript3
+       - 2021 Konexio - Paris-Digistat - (_20h_) Paris
+       - (https://www.konexio.eu/)
+   - Certificat la langue française DELF B1/B2
+       - De 2017 à 2018 Université Sorbon Paris
+   - Attestation de compétences -Développeur expérimenté
+       - De 2016 à 2017 GRPG(g2r) Paris
+   - Diplôme de premier cycle Université Niveau Bac +2
+       - 2016 Université Paris 8 Paris
+   - Diplôme de 1ère année en Informatique
+       - De 2001 à 2002 Université Colombo Sri Lanka
+   - Diplôme Multimédia
+      - De 2002 à 2003 Business and Technology Westfield School Sri Lanka
+   - Computer Operator
+     - 1998 American Professional Computer Center Sri Lanka
 
 ## Tech
-- [HTML5] - Intermédia 
-- [CSS3] - Intermédia 
-- [PHP7] -déboutant
-- [ Bootstrap] - Intermédia 
-- [Javascript]  -déboutant
-- [Wordpress]  -expert
-- [Photoshop] - Intermédia 
-- [Figma] - Intermédia 
-- [Git and Github] -déboutant
-- [Mysql] -déboutant
-- [phpmyaddmin] -déboutant
+    - [HTML5] - Expert 
+    - [CSS3] - Intermédia 
+    - [PHP7] - Déboutant
+    - [ Bootstrap] - Intermédia 
+    - [Javascript]  -Déboutant
+    - [Wordpress]  -Expert
+    - [Photoshop] - Intermédia 
+    - [Figma] - Intermédia 
+    - [Git and Github] -Déboutant
+    - [Mysql] -déboutant
+    - [phpmyaddmin] -Déboutant
+    - [Python 3] - Déboutant
 
 ## Centres d'Interet
     Veille informatique
     www.w3scool.com 
-    www.udemy.com www.
-    tutorielpoint.com
+    www.udemy.com 
+    www.tutorielpoint.com
+    www.realpython.com
 ## Langues
     Française 
-    DELFA1, DELFA2,
+    DELFA1, DELFA2, DELF B1, DELF B2
     TCF B1/B2
-    Anglaise 
-    Courant Singhalai - Langue maternelle
-## Réseaux sociaux in
-@anjala-rajapaksa- gaa11693
+    Anglaise - Deuximémé 
+    Singhalai - Langue maternelle
+## Réseaux sociaux linkedin
+    https://www.linkedin.com/in/anjala-rajapaksa
+
+## Bénévolat
+J'ai le plaisir de vous annoncer que j'ai fait du bénévolat chez la Maison Bakhita. J'ai fait atelier informatique et numérique chaque le mardi soir 19h jusqu'à 21h
 
 
    
