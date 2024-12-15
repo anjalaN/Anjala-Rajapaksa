@@ -109,6 +109,7 @@
 
 ## Bénévolat
 - J'ai le plaisir de vous annoncer que j'ai fait du bénévolat chez la Maison Bakhita. J'ai fait atelier informatique et numérique chaque le mardi soir 19h jusqu'à 21h
+- (https://www.maisonbakhita.fr)
 
 
    
