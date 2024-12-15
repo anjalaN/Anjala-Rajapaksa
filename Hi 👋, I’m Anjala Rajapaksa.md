@@ -79,34 +79,34 @@
 ## Tech
 - [HTML5] - Expert 
 - [CSS3] - Intermédia 
-    - [PHP7] - Déboutant
-    - [ Bootstrap] - Intermédia 
-    - [Javascript]  -Déboutant
-    - [Wordpress]  -Expert
-    - [Photoshop] - Intermédia 
-    - [Figma] - Intermédia 
-    - [Git and Github] -Déboutant
-    - [Mysql] -déboutant
-    - [phpmyaddmin] -Déboutant
-    - [Python 3] - Déboutant
+- [PHP7] - Déboutant
+- [ Bootstrap] - Intermédia 
+- [Javascript]  -Déboutant
+- [Wordpress]  -Expert
+- [Photoshop] - Intermédia 
+- [Figma] - Intermédia 
+- [Git and Github] -Déboutant
+- [Mysql] -déboutant
+- [phpmyaddmin] -Déboutant
+- [Python 3] - Déboutant
 
 ## Centres d'Interet
-    Veille informatique
-    www.w3scool.com 
-    www.udemy.com 
-    www.tutorielpoint.com
-    www.realpython.com
+- Veille informatique
+- www.w3scool.com 
+- www.udemy.com 
+- www.tutorielpoint.com
+- www.realpython.com
 ## Langues
-    Française 
+- Française 
     DELFA1, DELFA2, DELF B1, DELF B2
     TCF B1/B2
-    Anglaise - Deuximémé 
-    Singhalai - Langue maternelle
+- Anglaise - Deuximémé 
+- Singhalai - Langue maternelle
 ## Réseaux sociaux linkedin
-    https://www.linkedin.com/in/anjala-rajapaksa
+- https://www.linkedin.com/in/anjala-rajapaksa
 
 ## Bénévolat
-J'ai le plaisir de vous annoncer que j'ai fait du bénévolat chez la Maison Bakhita. J'ai fait atelier informatique et numérique chaque le mardi soir 19h jusqu'à 21h
+- J'ai le plaisir de vous annoncer que j'ai fait du bénévolat chez la Maison Bakhita. J'ai fait atelier informatique et numérique chaque le mardi soir 19h jusqu'à 21h
 
 
    
