@@ -1,9 +1,11 @@
 
 # Hi 👋, I'm Anjala Rajapaksa
 
-## Je suis Développeuse Web
+## Développeur web Full Stack & Data Analyst
+Stage(6Mois)
 
- Après avoir travaillé dans l'aviation, j'ai fait une reconversion vers l'informatique en qualité de conceptrice réalisation multimédia internet. Maitrisant HTML5, Css3, Javascript, Bootstrap4, Jquery3, Wordpress, Php7, Adobe Photoshop et j'exerce le métier de développeuse avec une spécialité front end.
+J’ai suivi la formation de l’école 42 à Paris, ce qui m’a permis d’acquérir des compétences solides en développement web, data analyse. 
+J’ai réalisé plusieurs projets concrets en Python, data science et développement web, souvent en collaboration avec d’autres apprenants. Aujourd’hui, je suis à la recherche d’un stage  de 6 mois pour mettre en pratique ces compétences dans un cadre professionnel.
  
 - 🌱 I’m currently learning **Language Python3 with École 42 Paris**
   
@@ -50,7 +52,7 @@
     - (https://www.airforce.lk/)
 
  ## Formations
- - En formation École 42 Language Html5, Css3, Python3 ....
+ - En formation École 42 Language Python3, Django3,Html5, Css3, Jquery3, bootsraup5,  ....
      - November 2024 Jusqu'à un ans
      - ( https://42.fr/)
        
@@ -58,7 +60,7 @@
    - October 2023 Wild code school 44 Rue Alphonse Penaud, 75020, Paris
    - (https://wildcodeschool.com/)
      
- - Attestation technicienne assistance (399h)
+ - Attestation Technicienne Assistance (399h)
    - De mai 2022 à août 2022 Simplon Villetaneuse
    - (https://simplon.co/)
      
@@ -122,4 +124,5 @@ https://www.linkedin.com/in/anjala-rajapaksa
 - (https://www.maisonbakhita.fr)
 
 
-   
+## Autonomie 
+-Udemy - https://udemy-certificate.s3.amazonaws.com/pdf/UC-5a333377-6f41-42d0-9bec-a15365db7dfb.pdf
